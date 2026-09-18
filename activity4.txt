@@ -1,0 +1,9 @@
+a = 7
+b = 11
+
+sum  = a + b
+diff = a - b
+
+print("The sum of", a,"and", b,"is", sum)
+print("The difference of", a,"minus", b,"is",  diff)
+print("The product of ",a," x",b," is", a*b)

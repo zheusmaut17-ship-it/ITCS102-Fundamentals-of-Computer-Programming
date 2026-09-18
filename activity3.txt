@@ -1,0 +1,11 @@
+name = "zheus"
+age = 18
+height = 164.5
+has_enrolled = True
+
+
+
+print(name)
+print(age)
+print(height)
+print(has_enrolled)

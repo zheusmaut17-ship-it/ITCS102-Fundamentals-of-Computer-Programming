@@ -1,0 +1,5 @@
+x = input("Enter a number ---> ?")
+
+type(x) #python function used to determine the data type of a variable
+
+#print("x ", name)
